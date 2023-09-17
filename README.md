@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first GIt repository 
-Authour - Vikas
+Authour - Vikas(apnaclg)
